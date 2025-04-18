@@ -1,0 +1,21 @@
+{
+  "studentId": 1,
+  "testId": 101,
+  "answers": [
+    {
+      "questionId": 201,
+      "response": "Option A",
+      "status": "attempted"
+    },
+    {
+      "questionId": 202,
+      "response": "",
+      "status": "skipped"
+    },
+    {
+      "questionId": 203,
+      "response": "Option C",
+      "status": "marked_for_review"
+    }
+  ]
+}
